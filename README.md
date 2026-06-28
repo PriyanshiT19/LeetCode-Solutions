@@ -8,6 +8,7 @@ Collection of LeetCode solutions and coding interview practice problems solved i
 | ------- |
 | [0001-two-sum](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/0015-3sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -16,8 +17,13 @@ Collection of LeetCode solutions and coding interview practice problems solved i
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/0015-3sum) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
