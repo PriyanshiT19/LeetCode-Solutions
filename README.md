@@ -9,6 +9,7 @@ Collection of LeetCode solutions and coding interview practice problems solved i
 | [0001-two-sum](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/0015-3sum) |
+| [0643-maximum-average-subarray-i](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -26,4 +27,8 @@ Collection of LeetCode solutions and coding interview practice problems solved i
 |  |
 | ------- |
 | [0015-3sum](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/0015-3sum) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
