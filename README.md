@@ -53,4 +53,20 @@ Collection of LeetCode solutions and coding interview practice problems solved i
 |  |
 | ------- |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+## Math
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
