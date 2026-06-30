@@ -56,6 +56,7 @@ Collection of LeetCode solutions and coding interview practice problems solved i
 ## Math
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -64,6 +65,7 @@ Collection of LeetCode solutions and coding interview practice problems solved i
 ## Recursion
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
