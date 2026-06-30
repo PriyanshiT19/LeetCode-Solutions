@@ -46,6 +46,7 @@ Collection of LeetCode solutions and coding interview practice problems solved i
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1021-remove-outermost-parentheses](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -77,4 +78,8 @@ Collection of LeetCode solutions and coding interview practice problems solved i
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/0231-power-of-two) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
