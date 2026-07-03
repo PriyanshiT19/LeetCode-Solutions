@@ -8,6 +8,7 @@ Collection of LeetCode solutions and coding interview practice problems solved i
 | ------- |
 | [0001-two-sum](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0219-contains-duplicate-ii](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
@@ -54,6 +55,7 @@ Collection of LeetCode solutions and coding interview practice problems solved i
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [1021-remove-outermost-parentheses](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -92,4 +94,8 @@ Collection of LeetCode solutions and coding interview practice problems solved i
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
