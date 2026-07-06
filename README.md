@@ -16,6 +16,7 @@ Collection of LeetCode solutions and coding interview practice problems solved i
 | [0075-sort-colors](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0219-contains-duplicate-ii](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0283-move-zeroes](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -39,6 +40,7 @@ Collection of LeetCode solutions and coding interview practice problems solved i
 | [0015-3sum](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [0283-move-zeroes](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 ## Greedy
 |  |
 | ------- |
