@@ -84,6 +84,7 @@ Collection of LeetCode solutions and coding interview practice problems solved i
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
@@ -126,6 +127,7 @@ Collection of LeetCode solutions and coding interview practice problems solved i
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0374-guess-number-higher-or-lower](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/0704-binary-search) |
 ## Interactive
