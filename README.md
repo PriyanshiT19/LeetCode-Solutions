@@ -10,6 +10,7 @@ Collection of LeetCode solutions and coding interview practice problems solved i
 | [0011-container-with-most-water](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/0015-3sum) |
+| [0031-next-permutation](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0041-first-missing-positive](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/0066-plus-one) |
@@ -42,6 +43,7 @@ Collection of LeetCode solutions and coding interview practice problems solved i
 | [0011-container-with-most-water](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 ## Greedy
