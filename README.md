@@ -38,6 +38,7 @@ Collection of LeetCode solutions and coding interview practice problems solved i
 | [0997-find-the-town-judge](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/0997-find-the-town-judge) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -52,12 +53,14 @@ Collection of LeetCode solutions and coding interview practice problems solved i
 | ------- |
 | [0011-container-with-most-water](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -81,10 +84,12 @@ Collection of LeetCode solutions and coding interview practice problems solved i
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting
 |  |
 | ------- |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Math
 |  |
 | ------- |
