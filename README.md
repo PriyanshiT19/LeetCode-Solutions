@@ -22,6 +22,7 @@ Collection of LeetCode solutions and coding interview practice problems solved i
 | [0560-subarray-sum-equals-k](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/0704-binary-search) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0997-find-the-town-judge](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/0997-find-the-town-judge) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -67,6 +68,7 @@ Collection of LeetCode solutions and coding interview practice problems solved i
 | [0003-longest-substring-without-repeating-characters](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -104,6 +106,7 @@ Collection of LeetCode solutions and coding interview practice problems solved i
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0322-coin-change](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Recursion
 |  |
@@ -141,6 +144,7 @@ Collection of LeetCode solutions and coding interview practice problems solved i
 | [0069-sqrtx](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0374-guess-number-higher-or-lower](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/0704-binary-search) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Interactive
 |  |
 | ------- |
@@ -153,4 +157,12 @@ Collection of LeetCode solutions and coding interview practice problems solved i
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/0322-coin-change) |
+## Rolling Hash
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
 <!---LeetCode Topics End-->
