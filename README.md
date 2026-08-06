@@ -83,6 +83,7 @@ Collection of LeetCode solutions and coding interview practice problems solved i
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [1021-remove-outermost-parentheses](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
+| [1092-shortest-common-supersequence](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/1092-shortest-common-supersequence) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -107,6 +108,7 @@ Collection of LeetCode solutions and coding interview practice problems solved i
 | [0322-coin-change](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [1092-shortest-common-supersequence](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/1092-shortest-common-supersequence) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Recursion
 |  |
@@ -165,4 +167,8 @@ Collection of LeetCode solutions and coding interview practice problems solved i
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1092-shortest-common-supersequence](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/1092-shortest-common-supersequence) |
 <!---LeetCode Topics End-->
