@@ -19,6 +19,7 @@ Collection of LeetCode solutions and coding interview practice problems solved i
 | [0219-contains-duplicate-ii](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/0322-coin-change) |
+| [0496-next-greater-element-i](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/0704-binary-search) |
@@ -35,6 +36,7 @@ Collection of LeetCode solutions and coding interview practice problems solved i
 | [0041-first-missing-positive](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0219-contains-duplicate-ii](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0496-next-greater-element-i](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0997-find-the-town-judge](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/0997-find-the-town-judge) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -127,6 +129,7 @@ Collection of LeetCode solutions and coding interview practice problems solved i
 ## Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [1021-remove-outermost-parentheses](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Trie
 |  |
@@ -171,4 +174,8 @@ Collection of LeetCode solutions and coding interview practice problems solved i
 |  |
 | ------- |
 | [1092-shortest-common-supersequence](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/1092-shortest-common-supersequence) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
