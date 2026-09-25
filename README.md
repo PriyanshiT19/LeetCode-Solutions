@@ -51,6 +51,7 @@ Collection of LeetCode solutions and coding interview practice problems solved i
 | [0031-next-permutation](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+| [1768-merge-strings-alternately](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
 ## Greedy
 |  |
 | ------- |
@@ -87,6 +88,7 @@ Collection of LeetCode solutions and coding interview practice problems solved i
 | [1021-remove-outermost-parentheses](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1092-shortest-common-supersequence](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/1092-shortest-common-supersequence) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1768-merge-strings-alternately](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PriyanshiT19/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
